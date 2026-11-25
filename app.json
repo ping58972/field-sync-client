@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Field Meter Sync",
+    "slug": "field-sync-client",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": { "package": "dev.ping58972.fieldsync" },
+    "plugins": ["expo-secure-store"]
+  }
+}
